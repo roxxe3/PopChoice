@@ -4,3 +4,15 @@ body {
   font-family: "Carter One", serif;
   text-align: center;
 }
+input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 350px;
+  height: 75px;
+  font-family: "Roboto Slab", serif;
+}
+h2 {
+  font-family: "Roboto Slab", serif;
+}
