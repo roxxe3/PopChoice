@@ -1,3 +1,3 @@
 import {queryMovies} from './config.js';
 
-queryMovies("indian action movie");
+console.log(await queryMovies("indian action movie"));
